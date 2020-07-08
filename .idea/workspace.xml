@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5af27f2f-cf6c-47cd-b311-bcfd86a66317" name="Default Changelist" comment="" />
+    <list default="true" id="5af27f2f-cf6c-47cd-b311-bcfd86a66317" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/Greeter$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/Greeter$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/Greeter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/Greeter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/HackerRankDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/HackerRankDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Greeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Greeter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HackerRankDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRankDemo.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DemoHashMap.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/HackerRankDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+            <state relative-caret-position="336">
+              <caret line="212" column="10" selection-start-line="212" selection-start-column="10" selection-end-line="212" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -30,13 +37,41 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DemoHashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ExceptionLambda.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="11" column="41" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Greeter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
+                <element signature="e#299#300#0" expanded="true" />
+                <element signature="e#558#559#0" expanded="true" />
+                <element signature="e#618#619#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -100,14 +135,14 @@
         <option value="$PROJECT_DIR$/src/Vehicle.java" />
         <option value="$PROJECT_DIR$/src/Car.java" />
         <option value="$PROJECT_DIR$/src/DateDemo.java" />
-        <option value="$PROJECT_DIR$/src/Greeter.java" />
-        <option value="$PROJECT_DIR$/src/HackerRankDemo.java" />
         <option value="$PROJECT_DIR$/src/VariableDemo.java" />
         <option value="$PROJECT_DIR$/src/LambdaDemo.java" />
         <option value="$PROJECT_DIR$/src/LambdaClosure.java" />
         <option value="$PROJECT_DIR$/src/PracticeFilterLambda.java" />
         <option value="$PROJECT_DIR$/src/PatternPrint.java" />
         <option value="$PROJECT_DIR$/src/StringDemo.java" />
+        <option value="$PROJECT_DIR$/src/Greeter.java" />
+        <option value="$PROJECT_DIR$/src/HackerRankDemo.java" />
       </list>
     </option>
   </component>
@@ -142,6 +177,12 @@
             </path>
             <path>
               <item name="java_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="HackerRankDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="java_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -153,7 +194,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593716300555" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594234715149" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15364806" />
     <property name="project.structure.side.proportion" value="0.33030304" />
@@ -180,7 +221,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DemoHashMap">
+  <component name="RunManager" selected="Application.HackerRankDemo">
     <configuration name="DemoHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DemoHashMap" />
       <module name="Demo" />
@@ -218,10 +259,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HackerRankDemo" />
         <item itemvalue="Application.DemoHashMap" />
         <item itemvalue="Application.PatternPrint" />
         <item itemvalue="Application.StringDemo" />
-        <item itemvalue="Application.HackerRankDemo" />
         <item itemvalue="Application.PracticeFilterLambda" />
       </list>
     </recent_temporary>
@@ -385,16 +426,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Greeter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="50" column="39" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Greeting.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -588,16 +619,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Demo.iml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HackerRankDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="11" column="1" selection-start-line="202" selection-start-column="6" selection-end-line="202" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/file/handling/FileHandling.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -794,7 +815,7 @@
     <entry file="file://$PROJECT_DIR$/src/DemoHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -805,6 +826,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="11" column="41" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Greeter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HackerRankDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="212" column="10" selection-start-line="212" selection-start-column="10" selection-end-line="212" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -844,7 +889,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.33030304" />
               </list>
             </option>
           </splitter-proportions>
@@ -869,6 +914,7 @@
             <option name="proportions">
               <list>
                 <option value="0.33030304" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
