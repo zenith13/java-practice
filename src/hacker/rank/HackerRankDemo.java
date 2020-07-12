@@ -204,6 +204,7 @@ public class HackerRankDemo
 
 
 
+
 		//Fizz buzz problem
 
 		for(int i=1; i<=100;i++){
