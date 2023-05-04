@@ -1,4 +1,6 @@
 import java.io.IOException;
+import java.text.DecimalFormat;
+import java.text.DecimalFormatSymbols;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.time.LocalDate;
@@ -47,6 +49,17 @@ public class DateDemo {
 		 System.out.println(map);
         System.out.println(diff);
 
-        String s = new String();
+        String pattern = "###,###.###";
+        DecimalFormat decimalFormat = new DecimalFormat(pattern);
+
+        String format = decimalFormat.format(88889.100);
+        System.out.println(format);
+
+        double val = 0.100;
+
+        final String asd = new DecimalFormat("###,##0.00",
+                new DecimalFormatSymbols(new Locale("pt", "BR"))).format(val);
+
+        System.out.println(asd);
     }
 }

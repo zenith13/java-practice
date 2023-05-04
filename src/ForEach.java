@@ -36,7 +36,7 @@ public class ForEach {
         });
 
         LinkedList<String> test = new LinkedList<>();
-        test.add("asd");
+        System.out.println(test.stream().filter(s-> s.equals("")).allMatch(s->s.equals("")));
 
         List<Vehicle> vehicles = new ArrayList<>();
         vehicles.add(new Vehicle("red", "sedan"));

@@ -13,9 +13,10 @@ public class EqualsHashCode {
 //        Vehicle v2 = v1;
 
         String s1 = new String("111");
-        String s2 = new String("111");
+        String s2 = s1;
 
-
+        if(s1==s2)
+        System.out.println("######" );
         System.out.println(v1.equals(v2));
         System.out.println(v1.hashCode());
         System.out.println(v1.hashCode());
